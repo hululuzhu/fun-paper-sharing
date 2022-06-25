@@ -1,7 +1,12 @@
 # Fun papers to read
 
 ## Upcoming 08/2022: 10+ Game AI papers covering Go/Chess/Atari/StarCraft/Dota2/HonorOfKings/Poker...
-## Upcoming 06/2022: Evolution of positional encoding in Transformer
+## Evolution of positional encoding in Transformer
+[Slides 06/2022](https://docs.google.com/presentation/d/e/2PACX-1vTyYgw22ZkCw11t2gSBhIM0CpJ-CPe3fgT6Ls1TzCHjLHRQLpSofTVLtT3XcfkEVr_1VJQ419DimPis/pub?start=false&loop=false&delayms=3000), covers
+- Learned embedding like BERT
+- Sinusoidal pos embedding like vanilla Transformer
+- Relative position embedding
+- Rotary position embedding (RoPE)
 
 ## Alpha series of DeepMind, to cover the following papers
 [V1 slides 05/2022](https://docs.google.com/presentation/d/e/2PACX-1vTV2btpJ5BL1_N4UbV905yTvSM0s9hHmDlOnVfMmwgeM8gbIwQtJmty69KNmqCO1_kiyBz2vxVC73cf/pub?start=false&loop=false&delayms=3000), including
