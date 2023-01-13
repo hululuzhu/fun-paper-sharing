@@ -1,6 +1,8 @@
 # Fun papers to read
 
 ## A primer of large language models
+- NEW [V2 slides, Jan 2023](https://github.com/hululuzhu/llm-primer/blob/main/llm_primer_v2_jan_2023.pdf)
+
 [Slides 07/2022](slides/llm_primer_v1.pdf), covers
 - 2017 Google Transformer
 - 2018 GLUE/SuperGLUE
