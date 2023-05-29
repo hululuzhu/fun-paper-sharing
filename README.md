@@ -63,7 +63,8 @@
   |1910.10683|Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer|
   |2005.14165|Language Models are Few-Shot Learners|
 
-## DouZero
+## DouZero & PerfectDou
 Paper: https://arxiv.org/abs/2106.06135
 - [English Slides 03/2022](slides/douzero_en.pdf)
 - [Chinese Slides 03/2022](slides/douzero_cn.pdf)
+- [Chinese Slides 05/2023](slides/douzero_perfectdou_summary_2023_v1.pdf)
